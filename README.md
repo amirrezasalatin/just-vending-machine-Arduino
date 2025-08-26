@@ -62,13 +62,12 @@ This project is a **prototype vending machine** fully designed and implemented u
 ---
 
 ## 📸 Preview
-*(Add images of your hardware setup or circuit diagram here if available)*  
+
 
 ---
 
 ## 📄 Documentation
-- [Project Report (PDF/Word)](./Docs/report.pdf)  
-- [Presentation (PPTX)](./Docs/presentation.pptx)  
+
 
 ---
 
