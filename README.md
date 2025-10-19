@@ -57,7 +57,6 @@ This project is a **prototype vending machine** fully designed and implemented u
 - **Team Members:**  
   - Hardware design & HW-UI connection: *Amirreza Solatin*  
   - UI software: *Sadra Ghafran*  
-  - 3D design & printing: *Hossein Samadi*  
 
 ---
 
